@@ -2,9 +2,15 @@
 <html> <!-- COMMENT -->
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Movie quotes.">
+    <meta name="description" content="stadionycr.">
     <title>Page title</title>
     <style>
+        body {background-color: silver;}
+        body {
+        background-image:  url(" https://www.livekurzy.cz/wp-content/uploads/2018/07/Fortuna-liga-square.jpg ");
+        background-repeat: no-repeat;
+        background-position: top right;
+        }
         table {
           font-family: arial, sans-serif;
           border-collapse: collapse;
@@ -20,13 +26,45 @@
         tr:nth-child(even) {
           background-color: #dddddd;
         }
+        ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+
         </style>
 </head>
    
 <body>
-    <h1>FOTBALOVÉ STADIONY V ČESKU</h1>
+    
+    <ul>
+        <li><a href="#stadiony">stadiony</a></li>
+        <li><a href="#týmy">týmy</a></li>
+        <li><a href="#aktuality">aktuality</a></li>
+        <li><a href="#informace">o projektu</a></li>
+    </ul>
+    <h1><span style="color:red">FOTBALOVÉ STADIONY</span> V ČESKU</h1>
     <p>základní informace a přehled pro sezónu 2019/20</p>
-    <h2>Stadiony Fortuna ligy</h2>
+    
+    <img src="CR7.gif" alt="blbost" style="width:480px;height:280px;">
     <table>
         <caption>Stadiony Fortuna ligy v sezóně 2019/2020</caption>
         <tr>
@@ -132,5 +170,10 @@
             <td>5 783</td>
         </tr>    
       </table>
+      <h2>Aktuální tabulka Fortuna Ligy (Livesport.cz)</h2>
+      <iframe height="500px" width="100%" src="demo_iframe.htm" name="iframe_a"></iframe>
+        <p><a href="https://www.livesport.cz/fotbal/cesko/fortuna-liga/tabulka/" target="iframe_a">LIVESPORT</a></p>
+        <img src="FL.PNG" alt="blbosti" style="width:480px;height:380px;">
+    
 </body>
 </html>

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "bodyWGS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "F1": "VK Lvi Praha", "F2": null, "F3": "50°2'28.710\"N, 14°19'30.021\"E", "F4": null, "x": -750338.455, "y": -1047154.301, "la": 50.0413083, "lo": 14.3250058 }, "geometry": { "type": "Point", "coordinates": [ 14.326082460000828, 50.042088729688842 ] } },
+{ "type": "Feature", "properties": { "F1": "Volejbal Brno", "F2": null, "F3": "49°12'12.479\"N, 16°36'0.771\"E", "F4": null, "x": -598626.032, "y": -1159768.074, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 16.601538011496253, 49.204072489916705 ] } },
+{ "type": "Feature", "properties": { "F1": "VK Dukla Liberec", "F2": null, "F3": "50°45'15.627\"N, 15°2'55.511\"E", "F4": null, "x": -688805.165, "y": -975378.808, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 15.049990220817735, 50.755182425499086 ] } },
+{ "type": "Feature", "properties": { "F1": "Blak Volley Beskydy", "F2": null, "F3": "49°40'44.336\"N, 18°20'27.854\"E", "F4": null, "x": -467885.693, "y": -1119273.147, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 18.342673276596692, 49.679577944149756 ] } },
+{ "type": "Feature", "properties": { "F1": "Kladno volejbal cz", "F2": null, "F3": "50°8'11.313\"N, 14°5'17.837\"E", "F4": null, "x": -765639.385, "y": -1034315.407, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 14.089337734294464, 50.137275408181964 ] } },
+{ "type": "Feature", "properties": { "F1": "SK VOLEJBAL Ústí nad Labem", "F2": null, "F3": "50°39'55.129\"N, 14°0'46.225\"E", "F4": null, "x": -762642.336, "y": -975325.848, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 14.013921005332673, 50.666177569141816 ] } },
+{ "type": "Feature", "properties": { "F1": "ČEZ Karlovarsko", "F2": null, "F3": "50°13'28.742\"N, 12°50'40.309\"E", "F4": null, "x": -852015.639, "y": -1011384.767, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 12.845405770319152, 50.225497053510175 ] } },
+{ "type": "Feature", "properties": { "F1": "fatra Zlín", "F2": null, "F3": "49°13'6.572\"N, 17°39'33.899\"E", "F4": null, "x": -521681.871, "y": -1165871.601, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 17.660885356758204, 49.219060919696666 ] } },
+{ "type": "Feature", "properties": { "F1": "VK Příbram", "F2": null, "F3": "49°40'43.319\"N, 14°0'9.141\"E", "F4": null, "x": -778930.553, "y": -1083846.969, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 14.003541492932383, 49.679447170352582 ] } },
+{ "type": "Feature", "properties": { "F1": "VK ostrava", "F2": null, "F3": "49°51'6.232\"N, 18°16'58.067\"E", "F4": null, "x": -470433.623, "y": -1099771.51, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 18.284409608764474, 49.852348450810688 ] } },
+{ "type": "Feature", "properties": { "F1": "AERO Odolena Voda", "F2": null, "F3": "50°13'33.924\"N, 14°24'38.327\"E", "F4": null, "x": -741457.605, "y": -1027635.452, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 14.411748568987713, 50.226889069060505 ] } },
+{ "type": "Feature", "properties": { "F1": "VK Jihostro České Budějovice", "F2": null, "F3": "48°58'19.367\"N, 14°28'3.964\"E", "F4": null, "x": -756345.23, "y": -1166366.57, "la": 0.0, "lo": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 14.468781954775666, 48.972697709919053 ] } }
+]
+}
